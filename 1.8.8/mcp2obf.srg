@@ -13717,7 +13717,6 @@ MD: net/minecraft/client/gui/ChatLine/getChatLineID ()I ava/c ()I
 MD: net/minecraft/client/gui/ChatLine/getUpdatedCounter ()I ava/b ()I
 MD: net/minecraft/client/gui/FontRenderer/bidiReorder (Ljava/lang/String;)Ljava/lang/String; avn/c (Ljava/lang/String;)Ljava/lang/String;
 MD: net/minecraft/client/gui/FontRenderer/drawSplitString (Ljava/lang/String;IIII)V avn/a (Ljava/lang/String;IIII)V
-MD: net/minecraft/client/gui/FontRenderer/drawString (Ljava/lang/String;FFIZ)I avn/a (Ljava/lang/String;FFIZ)I
 MD: net/minecraft/client/gui/FontRenderer/drawString (Ljava/lang/String;III)I avn/a (Ljava/lang/String;III)I
 MD: net/minecraft/client/gui/FontRenderer/drawStringWithShadow (Ljava/lang/String;FFI)I avn/a (Ljava/lang/String;FFI)I
 MD: net/minecraft/client/gui/FontRenderer/func_181559_a (CZ)F avn/a (CZ)F
